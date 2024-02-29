@@ -1,6 +1,6 @@
 Thanks for visiting my GitHub account!
 
-<p align="center"><img src="https://github.com/learnwithfair/cryptography/blob/main/cryptography-info.jpg" width="400" height="250" alt="PHP"></p>
+<p align="center"><img src="https://github.com/learnwithfair/cryptography/blob/main/crypograpy-info.jpg" width="400" height="250" alt="PHP"></p>
 
 ## About Cryptography
 
@@ -25,7 +25,7 @@ Thanks for visiting my GitHub account!
 - Pylance
 
 ### Process of Install Package in VS Code
-**Write the command in the command prompt**
+**Write the command in the command prompt of VS code**
 
 ```bash
 python -m venv myenv
