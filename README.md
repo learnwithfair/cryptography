@@ -45,3 +45,4 @@ pip install numpy
 |Problem List|
 |![list](https://github.com/learnwithfair/cryptography/blob/main/index.jpg)|
 
+#### Q8. Write a program to implement encryption and decryption using Rail-fence Cipher
